@@ -1,2 +1,2 @@
-This is a spring role based application using spring security.
+This is a role based application using spring boot and spring security.
 # RoleBasedApplication
